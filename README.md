@@ -9,7 +9,7 @@ A simple cli tool to visualize infx to postfix conversion in cli
 After building the project using `make`, you can run the visualizer:
 
 ```bash
-make program
+make
 ```
 
 
