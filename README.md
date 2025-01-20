@@ -8,8 +8,13 @@ A simple cli tool to visualize infx to postfix conversion in cli
 ## Usage
 After building the project using `make`, you can run the visualizer:
 
+- build command
 ```bash
 make
+```
+- run command
+```bash
+./a
 ```
 
 
